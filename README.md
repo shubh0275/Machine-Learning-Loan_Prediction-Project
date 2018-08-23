@@ -7,7 +7,7 @@ Steps followed are as follows:
 ->Predictive Modeling
 
 Requirements:
-Python = 3.6 and above and 
+Python = 3.6 or above and 
 Python libaries version-
 pandas = 0.20.3,
  seaborn =1.0.0,
